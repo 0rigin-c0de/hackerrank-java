@@ -1,0 +1,1 @@
+# HAckerRank.com Solutions for Beginners
